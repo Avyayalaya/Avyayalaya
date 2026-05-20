@@ -12,7 +12,7 @@ Systems builder. Product leader. I build tools that encode expertise into reusab
 
 **[stratum](https://github.com/avyayalaya/stratum)** — Meta-skill framework for evaluating human capability. 15 meta-skills across 3 domains. Agentic CLI assessment. Built from chaos theory, quantum mechanics, and 15 years of hiring.
 
-**[pm-skills-arsenal](https://github.com/avyayalaya/pm-skills-arsenal)** — 12 codified product management skills. 98/105 benchmark score. Claude plugin. Each skill is 1,100-1,300 lines of encoded methodology.
+**[pm-skills-arsenal](https://github.com/Avyayalaya/pm-skills-arsenal)** — 12 product management skills, each 1,100–1,300 lines of methodology, frameworks, and failure modes. APM-installable, bundles an MCP server, listed in [`github/awesome-copilot`](https://github.com/github/awesome-copilot). The `98/105` benchmark cited in the repo is self-administered (same author wrote the rubric and scored every output); raw outputs are at [`benchmark/`](https://github.com/Avyayalaya/pm-skills-arsenal/tree/main/benchmark) for independent re-scoring.
 
 ---
 
