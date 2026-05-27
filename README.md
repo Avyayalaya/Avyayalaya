@@ -2,6 +2,8 @@
 
 Systems builder. Product leader. I build tools that encode expertise into reusable, composable systems.
 
+> *Personal research, separate from my day-job at Microsoft. MIT-licensed.*
+
 ---
 
 ### Flagship Projects
